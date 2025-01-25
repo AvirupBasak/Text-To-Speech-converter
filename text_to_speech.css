@@ -1,7 +1,7 @@
 body{
     padding: 0%;
     margin: 0%;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:sans-serif, poppins;
     background: linear-gradient(45deg, #010758, #490d11);
     background-repeat: no-repeat;
     background-position: center;
@@ -116,7 +116,7 @@ footer {
     color: white;
     text-align: center;
     padding: 7px;
-    position: relative;
+    position:relative;
     max-width: 100%;
     bottom: 0;
 }
@@ -130,8 +130,9 @@ a {
         max-width: 97vw;
     }
 }
-u{
+span{
     color: rgb(249, 51, 90);
+    text-decoration: underline;
 }
 @media only screen and (max-width: 600px) {
     textarea {

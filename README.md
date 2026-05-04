@@ -29,20 +29,9 @@ Follow these steps to set up the Text-to-Speech Converter:
    ```bash
    cd Text-to-Speech-Converter
    ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## ▶️ Usage
-
-1. Run the script:
-   ```bash
-   python tts_converter.py
-   ```
-2. Enter the text you want to convert.
-3. Choose your preferred language and speed (if applicable).
-4. Listen to the generated speech or save it as an audio file.
+3. Enter the text you want to convert.
+4. Choose your preferred language and speed (if applicable).
+5. Listen to the generated speech or save it as an audio file.
 
 
 ## 🧩 Future Enhancements

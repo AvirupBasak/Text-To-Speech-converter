@@ -29,6 +29,12 @@ This project provides a clean user interface with interactive controls, animated
 
 ---
 
+## 🌐 Live Demo
+
+👉 [View Live Project]()
+
+---
+
 ## 🛠️ Technologies Used
 
 ### Frontend
@@ -165,10 +171,10 @@ git push origin feature-name
 
 ## 👨‍💻 Developer
 
-Developed with dedication by :contentReference[oaicite:0]{index=0}
+Developed with dedication by **Avirup Basak**
 
-- GitHub: 
-- LinkedIn: 
+- GitHub: [AvirupBasak](https://github.com/AvirupBasak)
+- LinkedIn: [Avirup Basak](https://www.linkedin.com/in/avirup-basak-742ab02a0)
 
 ---
 
